@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hezron Okwach
-- 👀 I’m interested in Python,C+ and C
+- 👀 I’m interested in Python,Sql, Html
 - 🌱 I recently graduated with a degree in computer science.
 
 <!---

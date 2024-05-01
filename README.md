@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hezron Okwach
-- 👀 I’m interested in Data analysis. Skills in Python, Sql, Html
-- 🌱 I recently graduated with a degree in computer science.
+- 👀 I’m interested in Data analysis and Sofware developer. Skills in Python, Sql, Html
+- 🌱 Apprentice Sofware Developer @Zone01 Kisumu.
 
 <!---
 hezronokwach/hezronokwach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

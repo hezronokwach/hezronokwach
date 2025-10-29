@@ -1,6 +1,5 @@
 - 👋 Hello, I’m Hezron Okwach.
-- Welcome to my world.
-- 👀 I’m interested in Data analysis and Sofware development. Skills in Python, Go, HTML, CSS and visualization with Tableau.
+- 👀 I’m interested in Data analysis and Sofware development. Skills in Python, Go, Javascript and visualization with PowerBI and Tableau.
 - 🌱 Intermediate Sofware Developer @Zone01 Kisumu.
 
 <!---
